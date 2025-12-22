@@ -1,0 +1,27 @@
+# Today I Learned...
+<details>
+  <summary>12/21/2025</summary>
+
+ ## New to me:
+  - Learned to code collapsible content in .md files. I'm super stoked for more formatting options there!
+
+  - Updated README.md to better showcase myself professionally.
+    
+  - Dice.com is actually a clean, easy to navigate site for job hunting.
+  
+## Issues I stumbled on:
+
+  - Created a wordpress blog. Seems redundant to documents like this
+
+## Results:
+
+  - Better professional appearance across LinkedIn, Dice.com, Bluesky, and GitHub.
+
+## Additional Notes:
+
+  - Created new Bluesky account to coincide with professional goals.
+
+  - Curious about efficacy of having a blog, bluesky, GitHub, and LinkedIn will impact visibility to potential employers, collaborators, or potential mentors.
+  
+ 
+</details>
