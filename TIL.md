@@ -28,7 +28,7 @@
   - Identified that SC-900 Exam is a Product Knowledge (PK) test, not so much skills, rather what product to suggest/use for a use case.
 
 ## Results:
-  - ...
+  - Passed Microsoft SC-900 Exam, now Microsoft Certified: Security, Compliance, and Identity Fundamentals  
 
 ## Additional Notes:
   - Drilled study guide for SC-900 Certification
