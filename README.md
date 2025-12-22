@@ -2,8 +2,9 @@
 
 **U.S. Navy Veteran | Operations Leader → Cybersecurity Professional**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jasonmcallahan)
-[![Email](https://img.shields.io/badge/Email-jmcall3883%40gmail.com-red)](mailto:jmcall3883@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-darkblue)](https://www.linkedin.com/in/jasonmcallahan)
+[![Bluesky](https://img.shields.io/badge/Bluesky-Connect-blue)](https://jasonmcallahan.bsky.social)
+[![Email](https://img.shields.io/badge/Email-jmcall3883%40gmail.com-darkgreen)](mailto:jmcall3883@gmail.com)
 
 ---
 
