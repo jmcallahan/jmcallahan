@@ -17,14 +17,19 @@
 
 <details>
   <summary> 12.22.2025 </summary>
+
 ## New to me:
-  - 
+  - ...
+
 ## Lab Work:
-  -
+  - ...
+
 ## Issues I stumbled on:
   - Identified that SC-900 Exam is a Product Knowledge (PK) test, not so much skills, rather what product to suggest/use for a use case.
+
 ## Results:
-  - 
+  - ...
+
 ## Additional Notes:
   - Drilled study guide for SC-900 Certification
   
