@@ -22,7 +22,7 @@ I'm a Navy veteran and former operations leader at Rivian Automotive executing a
 
 ## 🎯 Certifications
 
-### In Progress (Q1 2026)
+### In Progress (Q4 2025 to Q1 2026)
 - **Microsoft SC-900** (Security, Compliance, and Identity Fundamentals) - *Testing 12/22/2025*
 - **Microsoft AZ-900** (Azure Fundamentals) - *Testing by 1/10/2026*
 - **AWS Certified Cloud Practitioner** - *Testing by 1/9/2026*
@@ -130,7 +130,7 @@ I'm a Navy veteran and former operations leader at Rivian Automotive executing a
 ## 📚 Education
 
 **Bachelor of Applied Arts & Sciences - Cybersecurity**  
-*Eastern Illinois University | Expected December 2026*
+*Eastern Illinois University | Expected May 2027*
 
 **IT Infrastructure & Cybersecurity Program**  
 *MyComputerCareer | January 2026 - Present*
@@ -175,6 +175,7 @@ Participating in capture-the-flag challenges and vulnerability assessment exerci
 
 - **Email:** jmcall3883@gmail.com
 - **LinkedIn:** [linkedin.com/in/jasonmcallahan](https://www.linkedin.com/in/jasonmcallahan)
+- **Bluesky:** [jmcallahan.bluesky.social](https://jasonmcallahan.bsky.social)
 - **Location:** Normal, Illinois (Open to remote opportunities)
 
 ---
