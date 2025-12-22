@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-darkblue)](https://www.linkedin.com/in/jasonmcallahan)
 [![Bluesky](https://img.shields.io/badge/Bluesky-Connect-blue)](https://jasonmcallahan.bsky.social)
 [![Email](https://img.shields.io/badge/Email-jmcall3883%40gmail.com-darkgreen)](mailto:jmcall3883@gmail.com)
+[![Credly](https://img.shields.io/badge/Credly-Certifications-darkorange)](https://www.credly.com/users/jason-callahan.150008dc)
 
 ---
 
@@ -21,9 +22,9 @@ I'm a Navy veteran and former operations leader at Rivian Automotive executing a
 ---
 
 ## 🎯 Certifications
+**Microsoft Certified:** Security, Compliance, and Identity Fundamentals) - 12/22/2025 [Verification](https://learn.microsoft.com/api/credentials/share/en-us/JasonCallahan-1967/F722107FDF047BD3?sharingId=FA29AAB68BEE1638)
 
 ### In Progress (Q4 2025 to Q1 2026)
-- **Microsoft SC-900** (Security, Compliance, and Identity Fundamentals) - *Testing 12/22/2025*
 - **Microsoft AZ-900** (Azure Fundamentals) - *Testing by 1/10/2026*
 - **AWS Certified Cloud Practitioner** - *Testing by 1/9/2026*
 - **ISC2 Certified in Cybersecurity (CC)** - *Testing 1/12/2026*
