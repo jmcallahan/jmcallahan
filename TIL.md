@@ -1,7 +1,7 @@
 # Today I Learned...
 <!-- Template for new posts:
 <details>
-  <summary> xx.xx.202x </summary>
+  <summary><h2> xx.xx.202x </h2></summary>
 ## New to me:
   - 
 ## Lab Work:
@@ -16,45 +16,50 @@
 -->
 
 <details>
-  <summary> 12.22.2025 </summary>
+  <summary><h2>12.22.2025</h2></summary>
 
-## New to me:
+### New to me:
+  - *Zero Trust Security Model* - verify explicity, assume breach, least privilege access.
+  - AuthN vs. AuthZ
+  - Microsoft Entra ID (formerly Azure AD) for identity management
+  - Compliance frameworks - HIPAA, GDPR, ISO 27001
+  - Data classification, sensitivity labels and security policies.
+
+### Lab Work:
   - ...
 
-## Lab Work:
-  - ...
-
-## Issues I stumbled on:
+### Issues I stumbled on:
   - Identified that SC-900 Exam is a Product Knowledge (PK) test, not so much skills, rather what product to suggest/use for a use case.
 
-## Results:
-  - Passed Microsoft SC-900 Exam, now Microsoft Certified: Security, Compliance, and Identity Fundamentals  
+### Results:
+  - Passed Microsoft SC-900 Exam, now Microsoft Certified: Security, Compliance, and Identity Fundamentals
+  - First IT certification completed, and on-schedule.  
 
-## Additional Notes:
+### Additional Notes:
   - Drilled study guide for SC-900 Certification
   
   </details>
-
+<!---- ---->
 <details>
-  <summary>12.21.2025</summary>
+  <summary><H2>12.21.2025</H2></summary>
 
- ## New to me:
+ ### New to me:
   - Learned to code collapsible content in .md files. I'm super stoked for more formatting options there!
 
   - Updated README.md to better showcase myself professionally.
     
   - Dice.com is actually a clean, easy to navigate site for job hunting.
 
-## Lab Work:
+### Lab Work:
   - Downloaded and installed VMware Workstation Pro as well as relevant VMs and Kali Linux
   
-## Issues I stumbled on:
+### Issues I stumbled on:
   - Created a wordpress blog. Seems redundant to documents like this
 
-## Results:
+### Results:
   - Better professional appearance across LinkedIn, Dice.com, Bluesky, and GitHub.
 
-## Additional Notes:
+### Additional Notes:
   - Created new Bluesky account to coincide with professional goals.
 
   - Curious about efficacy of having a blog, bluesky, GitHub, and LinkedIn will impact visibility to potential employers, collaborators, or potential mentors.
