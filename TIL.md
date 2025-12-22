@@ -8,6 +8,9 @@
   - Updated README.md to better showcase myself professionally.
     
   - Dice.com is actually a clean, easy to navigate site for job hunting.
+
+## Lab Work:
+  - Downloaded and installed VMware Workstation Pro as well as relevant VMs and Kali Linux
   
 ## Issues I stumbled on:
 
