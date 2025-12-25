@@ -14,6 +14,7 @@
 [![python-learning-journey/basics](https://img.shields.io/badge/Repo-python_basics-darkgreen)](https://github.com/jmcallahan/python-learning-journey/tree/main/basics)
 
 ---
+<a name="quickjump"></a>
 **Quickjump**
 
 [![Certifications](https://img.shields.io/badge/Certifications-303030)](#-certifications)
@@ -35,7 +36,7 @@ I'm a Navy veteran and former operations leader at Rivian Automotive executing a
 - Formal IT education: MyComputerCareer (Jan 2026 start) + B.A.A.S. Cybersecurity (EIU, May 2027 completion)
 - Targeting entry-level roles: SOC Analyst, Help Desk, IT Support, Security Operations
 
-[⬆ Back to Top](#-table-of-contents)
+[⬆ Back to Top](#quickjump)
 
 ---
 
@@ -53,7 +54,7 @@ I'm a Navy veteran and former operations leader at Rivian Automotive executing a
 - CompTIA Security+
 - CompTIA CySA+ (Cybersecurity Analyst)
 
-[⬆ Back to Top](#-table-of-contents)
+[⬆ Back to Top](#quickjump)
 
 ---
 
@@ -77,7 +78,7 @@ I'm a Navy veteran and former operations leader at Rivian Automotive executing a
 - Running CTF challenges and vulnerability assessments
 - Documenting security tool configurations and use cases
 
-[⬆ Back to Top](#-table-of-contents)
+[⬆ Back to Top](#quickjump)
 
 ---
 
@@ -120,7 +121,7 @@ I'm a Navy veteran and former operations leader at Rivian Automotive executing a
 - Team leadership under high-stress conditions
 - Incident response & tactical decision-making
 
-[⬆ Back to Top](#-table-of-contents)
+[⬆ Back to Top](#quickjump)
 
 ---
 
@@ -150,7 +151,7 @@ I'm a Navy veteran and former operations leader at Rivian Automotive executing a
 - Cloud security architecture (AWS, Azure)
 - Incident response methodologies
 
-[⬆ Back to Top](#-table-of-contents)
+[⬆ Back to Top](#quickjump)
 
 ---
 
@@ -171,7 +172,7 @@ I'm a Navy veteran and former operations leader at Rivian Automotive executing a
 **Emergency Management Certificate**  
 *American Military University | 2010*
 
-[⬆ Back to Top](#-table-of-contents)
+[⬆ Back to Top](#quickjump)
 
 ---
 
@@ -185,7 +186,7 @@ I'm a Navy veteran and former operations leader at Rivian Automotive executing a
 - Navy Security Reaction Force - Advanced
 - Close Range Subject Control
 
-[⬆ Back to Top](#-table-of-contents)
+[⬆ Back to Top](#quickjump)
 
 ---
 
@@ -200,7 +201,7 @@ Documenting certification study notes, practice lab configurations, and key lear
 ### 3. CTF & Vulnerability Assessment Practice
 Participating in capture-the-flag challenges and vulnerability assessment exercises to build practical offensive/defensive security skills.
 
-[⬆ Back to Top](#-table-of-contents)
+[⬆ Back to Top](#quickjump)
 
 ---
 
@@ -212,7 +213,7 @@ Participating in capture-the-flag challenges and vulnerability assessment exerci
 - **Bluesky:** [jmcallahan.bluesky.social](https://jasonmcallahan.bsky.social)
 - **Location:** Normal, Illinois (Open to remote opportunities)
 
-[⬆ Back to Top](#-table-of-contents)
+[⬆ Back to Top](#quickjump)
 
 ---
 
@@ -244,7 +245,7 @@ My career has been built around high-stakes operational environments where failu
 
 Cybersecurity combines everything I've trained for: risk assessment, incident response, systems thinking, and the discipline to operate under pressure while following documented procedures. This isn't a career change—it's a redeployment of skills into a domain where they're mission-critical.
 
-[⬆ Back to Top](#-table-of-contents)
+[⬆ Back to Top](#quickjump)
 
 ---
 
