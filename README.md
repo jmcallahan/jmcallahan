@@ -35,6 +35,8 @@ I'm a Navy veteran and former operations leader at Rivian Automotive executing a
 - Formal IT education: MyComputerCareer (Jan 2026 start) + B.A.A.S. Cybersecurity (EIU, May 2027 completion)
 - Targeting entry-level roles: SOC Analyst, Help Desk, IT Support, Security Operations
 
+[⬆ Back to Top](#-table-of-contents)
+
 ---
 
 ## 🎯 Certifications
@@ -50,6 +52,8 @@ I'm a Navy veteran and former operations leader at Rivian Automotive executing a
 - CompTIA Network+
 - CompTIA Security+
 - CompTIA CySA+ (Cybersecurity Analyst)
+
+[⬆ Back to Top](#-table-of-contents)
 
 ---
 
@@ -72,6 +76,8 @@ I'm a Navy veteran and former operations leader at Rivian Automotive executing a
 - Practicing incident detection and response workflows
 - Running CTF challenges and vulnerability assessments
 - Documenting security tool configurations and use cases
+
+[⬆ Back to Top](#-table-of-contents)
 
 ---
 
@@ -114,6 +120,8 @@ I'm a Navy veteran and former operations leader at Rivian Automotive executing a
 - Team leadership under high-stress conditions
 - Incident response & tactical decision-making
 
+[⬆ Back to Top](#-table-of-contents)
+
 ---
 
 ## 🔧 Technical Skills
@@ -142,6 +150,8 @@ I'm a Navy veteran and former operations leader at Rivian Automotive executing a
 - Cloud security architecture (AWS, Azure)
 - Incident response methodologies
 
+[⬆ Back to Top](#-table-of-contents)
+
 ---
 
 ## 📚 Education
@@ -161,6 +171,8 @@ I'm a Navy veteran and former operations leader at Rivian Automotive executing a
 **Emergency Management Certificate**  
 *American Military University | 2010*
 
+[⬆ Back to Top](#-table-of-contents)
+
 ---
 
 ## 🎖️ Military & Medical Certifications
@@ -172,6 +184,8 @@ I'm a Navy veteran and former operations leader at Rivian Automotive executing a
 - Federal Emergency Management Agency: ICS 100, 200, 700, 808
 - Navy Security Reaction Force - Advanced
 - Close Range Subject Control
+
+[⬆ Back to Top](#-table-of-contents)
 
 ---
 
@@ -186,18 +200,23 @@ Documenting certification study notes, practice lab configurations, and key lear
 ### 3. CTF & Vulnerability Assessment Practice
 Participating in capture-the-flag challenges and vulnerability assessment exercises to build practical offensive/defensive security skills.
 
+[⬆ Back to Top](#-table-of-contents)
+
 ---
 
-## 📫 Get In Touch
+## 📫 Get In Touch 
+
 
 - **Email:** jmcall3883@gmail.com
 - **LinkedIn:** [linkedin.com/in/jasonmcallahan](https://www.linkedin.com/in/jasonmcallahan)
 - **Bluesky:** [jmcallahan.bluesky.social](https://jasonmcallahan.bsky.social)
 - **Location:** Normal, Illinois (Open to remote opportunities)
 
+[⬆ Back to Top](#-table-of-contents)
+
 ---
 
-## 🎯 Career Goals
+## 🎯 Career Goals 
 
 **Immediate (Q1 - Q2 2026):**
 - Complete Microsoft SC-900, AZ-900, AWS CCP, ISC2 CC certifications
@@ -224,6 +243,8 @@ My career has been built around high-stakes operational environments where failu
 - In manufacturing operations, I led process improvements that saved millions while maintaining safety and compliance.
 
 Cybersecurity combines everything I've trained for: risk assessment, incident response, systems thinking, and the discipline to operate under pressure while following documented procedures. This isn't a career change—it's a redeployment of skills into a domain where they're mission-critical.
+
+[⬆ Back to Top](#-table-of-contents)
 
 ---
 
