@@ -14,6 +14,16 @@
 [![python-learning-journey/basics](https://img.shields.io/badge/Repo-python_basics-darkgreen)](https://github.com/jmcallahan/python-learning-journey/tree/main/basics)
 
 ---
+**Quickjump**
+
+[![Certifications](https://img.shields.io/badge/Certifications-303030)](#-certifications)
+[![Professional Background](https://img.shields.io/badge/Professional_Background-303030)](#-professional-background)
+[![Technical Skills](https://img.shields.io/badge/Technical_Skills-303030)](#-technical-skills)
+[![Education](https://img.shields.io/badge/Education-303030)](#-education)
+[![Career Goals](https://img.shields.io/badge/Career_Goals-303030)](#-career-goals)
+[![Why Cybersecurity?](https://img.shields.io/badge/Why_Cybersecurity-303030)](#-why-cybersecurity)
+
+---
 
 ## About Me
 
