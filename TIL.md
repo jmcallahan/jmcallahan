@@ -14,7 +14,29 @@
   - 
   </details>
 -->
+<details>
+  <summary><h2>12.25.2025</h2></summary>
 
+### New to me:
+  - Learning python variables and f-strings
+
+### Lab Work:
+  - ...
+
+### Issues I stumbled on:
+  - Still trying to perfect calcualting exact age to the day from the system time with "import datetime" but that's not a priority right now. Staying focus on variables and learning in manageable chunks is where my focus needs to be. Also, certifications. 
+
+### Results:
+  - New [basics]([https://github.com/jmcallahan/jmcallahan](https://github.com/jmcallahan/python-learning-journey/tree/main/basics)) folder in the [python-learning-journey](https://github.com/jmcallahan/python-learning-journey/tree/main) repo.
+  - Started adding day by day python progress files to the [basics]([https://github.com/jmcallahan/jmcallahan](https://github.com/jmcallahan/python-learning-journey/tree/main/basics)) folder. Check out [python-day-2.py](https://github.com/jmcallahan/python-learning-journey/blob/main/basics/python-day-2.py) to see what I've learned so far.
+
+### Additional Notes:
+  - Merry Christmas to those who observe! The grind continues.
+  - Drilled on notes for the Amazon Certified Cloud Practioner exam, I'm scheduled for 12/31/25. Finding it frustrating that the LMS course Amazon has up doesn't clearly identify all the concepts the practice exam covers, and I'm unsure where my focus should be. Six days to get a foundational understanding.
+  - I've learned that this particular field is going to require intentional effort from me. Most things I naturally comprehend and almsot osmose information. I'm learning that logic isn't always obvious in coding/IT/tech, that some things are legacy, and that some arbitrary, so I have to adjust to learning things like one does a new language. By forgetting that it has anything to do with another language. Fow now, the connections and lightbulbs will surely come later.
+  
+  </details>
+--- 
 <details>
   <summary><h2>12.22.2025</h2></summary>
 
@@ -39,7 +61,7 @@
   - Drilled study guide for SC-900 Certification
   
   </details>
-<!---- ---->
+--- 
 <details>
   <summary><H2>12.21.2025</H2></summary>
 
