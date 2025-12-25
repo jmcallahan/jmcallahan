@@ -17,12 +17,12 @@
 <a name="quickjump"></a>
 **Quickjump**
 
-[![Certifications](https://img.shields.io/badge/Certifications-303030)](#-certifications)
-[![Professional Background](https://img.shields.io/badge/Professional_Background-303030)](#-professional-background)
-[![Technical Skills](https://img.shields.io/badge/Technical_Skills-303030)](#-technical-skills)
-[![Education](https://img.shields.io/badge/Education-303030)](#-education)
-[![Career Goals](https://img.shields.io/badge/Career_Goals-303030)](#-career-goals)
-[![Why Cybersecurity?](https://img.shields.io/badge/Why_Cybersecurity-303030)](#-why-cybersecurity)
+[![Certifications](https://img.shields.io/badge/Certifications-303030)](#certifications)
+[![Professional Background](https://img.shields.io/badge/Professional_Background-303030)](#professional-background)
+[![Technical Skills](https://img.shields.io/badge/Technical_Skills-303030)](#technical-skills)
+[![Education](https://img.shields.io/badge/Education-303030)](#education)
+[![Career Goals](https://img.shields.io/badge/Career_Goals-303030)](#career-goals)
+[![Why Cybersecurity?](https://img.shields.io/badge/Why_Cybersecurity-303030)](#why-cybersecurity)
 
 ---
 
@@ -39,9 +39,9 @@ I'm a Navy veteran and former operations leader at Rivian Automotive executing a
 [⬆ Back to Top](#quickjump)
 
 ---
-
+<a name="certifications"></a>
 ## 🎯 Certifications
-**Microsoft Certified:** Security, Compliance, and Identity Fundamentals) - 12/22/2025 [Verification](https://learn.microsoft.com/api/credentials/share/en-us/JasonCallahan-1967/F722107FDF047BD3?sharingId=FA29AAB68BEE1638)
+**Microsoft Certified:** Security, Compliance, and Identity Fundamentals - 12/22/2025 [Verification](https://learn.microsoft.com/api/credentials/share/en-us/JasonCallahan-1967/F722107FDF047BD3?sharingId=FA29AAB68BEE1638)
 
 ### In Progress (Q4 2025 to Q1 2026)
 - **AWS Certified Cloud Practitioner** - *Testing 12/31/2025*
@@ -81,7 +81,7 @@ I'm a Navy veteran and former operations leader at Rivian Automotive executing a
 [⬆ Back to Top](#quickjump)
 
 ---
-
+<a name="professional-background"></a>
 ## 💼 Professional Background
 
 ### Operations Leadership | Rivian Automotive (2022-2024)
@@ -124,7 +124,7 @@ I'm a Navy veteran and former operations leader at Rivian Automotive executing a
 [⬆ Back to Top](#quickjump)
 
 ---
-
+<a name="technical-skills"></a>
 ## 🔧 Technical Skills
 
 ### Operating Systems
@@ -155,6 +155,7 @@ I'm a Navy veteran and former operations leader at Rivian Automotive executing a
 
 ---
 
+<a name="education"></a>
 ## 📚 Education
 
 **Bachelor of Applied Arts & Sciences - Cybersecurity**  
@@ -217,7 +218,8 @@ Participating in capture-the-flag challenges and vulnerability assessment exerci
 
 ---
 
-## 🎯 Career Goals 
+<a name="career-goals"></a>
+## 🎯 Career Goals
 
 **Immediate (Q1 - Q2 2026):**
 - Complete Microsoft SC-900, AZ-900, AWS CCP, ISC2 CC certifications
@@ -236,6 +238,7 @@ Participating in capture-the-flag challenges and vulnerability assessment exerci
 
 ---
 
+<a name="why-cybersecurity"></a>
 ## 💡 Why Cybersecurity?
 
 My career has been built around high-stakes operational environments where failure isn't an option:
