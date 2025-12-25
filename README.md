@@ -7,6 +7,11 @@
 [![Email](https://img.shields.io/badge/Email-jmcall3883%40gmail.com-darkgreen)](mailto:jmcall3883@gmail.com)
 [![Credly](https://img.shields.io/badge/Credly-Certifications-darkorange)](https://www.credly.com/users/jason-callahan.150008dc)
 
+**Repos & ReadMes:**
+[TIL](https://github.com/jmcallahan/jmcallahan/blob/main/TIL.md)
+[python-learning-journey](https://github.com/jmcallahan/python-learning-journey/tree/main)
+[python-learning-journey/basics](https://github.com/jmcallahan/python-learning-journey/tree/main/basics)
+
 ---
 
 ## About Me
