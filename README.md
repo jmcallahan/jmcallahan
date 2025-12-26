@@ -1,6 +1,6 @@
 # Jason M. Callahan
 
-**U.S. Navy Veteran | Operations Leader → Cybersecurity Professional**
+🛡️ **U.S. Navy Veteran | Operations Leader → Cybersecurity Professional**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jasonmcallahan)
 [![Bluesky](https://img.shields.io/badge/Bluesky-Connect-lightblue)](https://jasonmcallahan.bsky.social)
