@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-jmcall3883%40gmail.com-darkgreen)](mailto:jmcall3883@gmail.com)
 [![Credly](https://img.shields.io/badge/Credly-Certifications-darkorange)](https://www.credly.com/users/jason-callahan.150008dc)
 
-**Repos & ReadMes:**
+🪣 **Repos & ReadMes:**
 
 [![TIL](https://img.shields.io/badge/README-TIL-darkred)](https://github.com/jmcallahan/jmcallahan/blob/main/TIL.md)
 [![TIL](https://img.shields.io/badge/README-Python_Learning_Journey-darkred)](https://github.com/jmcallahan/python-learning-journey/blob/main/README.md)
@@ -17,7 +17,7 @@
 
 ---
 <a name="quickjump"></a>
-**Quickjump**
+⏩ **Quickjump**
 
 [![Certifications](https://img.shields.io/badge/Certifications-303030)](#certifications)
 [![Professional Background](https://img.shields.io/badge/Professional_Background-303030)](#professional-background)
@@ -28,11 +28,11 @@
 
 ---
 
-## About Me
+## 📝 About Me
 
 I'm a Navy veteran and former operations leader at Rivian Automotive executing a structured transition into cybersecurity and IT infrastructure. My background in high-stakes operational environments (Navy navigation/force protection, emergency medicine, manufacturing operations) has built the foundation for security-focused technical work: incident response, systems thinking, risk assessment, and process-driven troubleshooting.
 
-**Current Focus:**
+🔎 **Current Focus:**
 - Building enterprise-grade home lab for hands-on cybersecurity training
 - Pursuing aggressive certification timeline (7 certs by April 2026)
 - Formal IT education: MyComputerCareer (Jan 2026 start) + B.A.A.S. Cybersecurity (EIU, May 2027 completion)
@@ -42,7 +42,7 @@ I'm a Navy veteran and former operations leader at Rivian Automotive executing a
 
 ---
 <a name="certifications"></a>
-## 🎯 Certifications
+## ✅ Certifications
 **Microsoft Certified:** Security, Compliance, and Identity Fundamentals - 12/22/2025 [Verification](https://learn.microsoft.com/api/credentials/share/en-us/JasonCallahan-1967/F722107FDF047BD3?sharingId=FA29AAB68BEE1638)
 
 ### In Progress (Q4 2025 to Q1 2026)
@@ -60,21 +60,21 @@ I'm a Navy veteran and former operations leader at Rivian Automotive executing a
 
 ---
 
-## 🛠️ Home Lab Environment
+## 🔬 Home Lab Environment
 
-**Hardware:**
+🖥️ **Hardware:**
 - AMD Ryzen 7 7800X3D (8-core, 16-thread)
 - 64GB DDR5 RAM
 - Dual-boot: Windows 11 / Linux (Ubuntu 24.04)
 
-**Security & Analysis Tools:**
+🛠️ **Security & Analysis Tools:**
 - **SIEM:** Security Onion (network security monitoring)
 - **Packet Analysis:** Wireshark
 - **Network Scanning:** Nmap
 - **Penetration Testing:** Kali Linux
 - **Virtualization:** VirtualBox (running multiple attack/defense VMs)
 
-**Current Lab Projects:**
+🚩**Current Lab Projects:**
 - Building simulated enterprise network for SIEM log analysis
 - Practicing incident detection and response workflows
 - Running CTF challenges and vulnerability assessments
@@ -158,7 +158,7 @@ I'm a Navy veteran and former operations leader at Rivian Automotive executing a
 ---
 
 <a name="education"></a>
-## 📚 Education
+## 🏫 Education
 
 **Bachelor of Applied Arts & Sciences - Cybersecurity**  
 *Eastern Illinois University | Expected May 2027*
