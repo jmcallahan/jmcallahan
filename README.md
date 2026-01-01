@@ -43,8 +43,8 @@ I'm a Navy veteran and former operations leader at Rivian Automotive executing a
 ---
 <a name="certifications"></a>
 ## ✅ Certifications
-**Microsoft Certified:** Security, Compliance, and Identity Fundamentals - 12/22/2025 [Verification](https://learn.microsoft.com/api/credentials/share/en-us/JasonCallahan-1967/F722107FDF047BD3?sharingId=FA29AAB68BEE1638)
- **AWS Certified Cloud Practitioner** - 12/31/2025 [Verification](https://cp.certmetrics.com/amazon/en/public/verify/credential/6a774c5161ab406fa7257a6b1df303d8) 
+- **Microsoft Certified:** Security, Compliance, and Identity Fundamentals - 12/22/2025 [Verification](https://learn.microsoft.com/api/credentials/share/en-us/JasonCallahan-1967/F722107FDF047BD3?sharingId=FA29AAB68BEE1638)
+- **AWS Certified Cloud Practitioner** - 12/31/2025 [Verification](https://cp.certmetrics.com/amazon/en/public/verify/credential/6a774c5161ab406fa7257a6b1df303d8) 
 ### In Progress (Q4 2025 to Q1 2026)
 - **Microsoft AZ-900** (Azure Fundamentals) - *Testing by 1/10/2026*
 - **ISC2 Certified in Cybersecurity (CC)** - *Testing 1/12/2026*
