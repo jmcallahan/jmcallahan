@@ -81,8 +81,8 @@ I'm a Navy veteran and former operations leader at Rivian Automotive executing a
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/jmcall3883.png)
 
 - Active CTF participation and guided labs
-- Focus areas: networking fundamentals, Linux, enumeration, detection basics
-- Used to reinforce concepts applied in home lab projects
+- Focus areas: networking fundamentals, Linux, enumeration, basic detection
+- Reinforces concepts applied in Security Onion and VM-based lab scenarios
 
 
 [⬆ Back to Top](#quickjump)
@@ -136,7 +136,7 @@ I'm a Navy veteran and former operations leader at Rivian Automotive executing a
 
 ### Operating Systems
 - Windows 10/11 (enterprise administration)
-- Linux (Ubuntu, Kali, command-line proficiency)
+- Linux (Ubuntu, Kali, Parrot, command-line proficiency)
 - Basic macOS familiarity
 
 ### Networking & Security Tools
@@ -258,7 +258,7 @@ Cybersecurity combines everything I've trained for: risk assessment, incident re
 
 ---
 
-*This README was last updated: December 2025*
+*This README was last updated: January 30, 2026*
 
 <!--
 **jmcallahan/jmcallahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
