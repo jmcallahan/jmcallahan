@@ -34,9 +34,9 @@ I'm a Navy veteran and former operations leader at Rivian Automotive executing a
 
 🔎 **Current Focus:**
 - Building an enterprise-grade home lab for hands-on cybersecurity training
-- Pursuing aggressive certification timeline (7 certs by April 2026)
+- Pursuing aggressive certification timeline (4 certs by April 2026)
 - Formal IT education: MyComputerCareer (Jan 2026 start) + B.A.A.S. Cybersecurity (EIU, May 2027 completion)
-- Targeting entry-level roles: SOC Analyst, Help Desk, IT Support, Security Operations
+- Targeting entry-level roles: SOC Analyst (Tier 1), IT Support, Help Desk
 
 [⬆ Back to Top](#quickjump)
 
@@ -75,6 +75,15 @@ I'm a Navy veteran and former operations leader at Rivian Automotive executing a
 - Practicing incident detection and response workflows
 - Running CTF challenges and vulnerability assessments
 - Documenting security tool configurations and use cases
+
+### 🧪 Hands-On Training Platforms
+
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/jmcall3883.png)
+
+- Active CTF participation and guided labs
+- Focus areas: networking fundamentals, Linux, enumeration, detection basics
+- Used to reinforce concepts applied in home lab projects
+
 
 [⬆ Back to Top](#quickjump)
 
@@ -220,12 +229,11 @@ Participating in capture-the-flag challenges and vulnerability assessment exerci
 ## 🎯 Career Goals
 
 **Immediate (Q1 - Q2 2026):**
-- Complete Microsoft SC-900, AZ-900, AWS CCP, ISC2 CC certifications
+- Complete Microsoft CompTIA A+, Net+, Sec+, CySA+ certifications
 - Secure entry-level IT role (Help Desk, SOC Analyst, IT Support)
 - Continue hands-on lab work and expand GitHub portfolio with documented projects
 
 **Medium-Term (Q3 2026 - Q2 2027):**
-- Complete CompTIA A+, Network+, Security+, CySA+ certifications
 - Graduate with B.A.A.S. in Cybersecurity from Eastern Illinois University
 - Transition into security-focused role (Junior SOC Analyst, Security Operations)
 
