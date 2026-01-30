@@ -33,7 +33,7 @@
 I'm a Navy veteran and former operations leader at Rivian Automotive executing a structured transition into cybersecurity and IT infrastructure. My background in high-stakes operational environments (Navy navigation/force protection, emergency medicine, manufacturing operations) has built the foundation for security-focused technical work: incident response, systems thinking, risk assessment, and process-driven troubleshooting.
 
 🔎 **Current Focus:**
-- Building enterprise-grade home lab for hands-on cybersecurity training
+- Building an enterprise-grade home lab for hands-on cybersecurity training
 - Pursuing aggressive certification timeline (7 certs by April 2026)
 - Formal IT education: MyComputerCareer (Jan 2026 start) + B.A.A.S. Cybersecurity (EIU, May 2027 completion)
 - Targeting entry-level roles: SOC Analyst, Help Desk, IT Support, Security Operations
@@ -45,15 +45,12 @@ I'm a Navy veteran and former operations leader at Rivian Automotive executing a
 ## ✅ Certifications
 - **Microsoft Certified:** Security, Compliance, and Identity Fundamentals - 12/22/2025 [Verification](https://learn.microsoft.com/api/credentials/share/en-us/JasonCallahan-1967/F722107FDF047BD3?sharingId=FA29AAB68BEE1638)
 - **AWS Certified Cloud Practitioner** - 12/31/2025 [Verification](https://cp.certmetrics.com/amazon/en/public/verify/credential/6a774c5161ab406fa7257a6b1df303d8) 
-### In Progress (Q4 2025 to Q1 2026)
-- **Microsoft AZ-900** (Azure Fundamentals) - *Testing by 1/10/2026*
-- **ISC2 Certified in Cybersecurity (CC)** - *Testing 1/12/2026*
-
-### Planned (Q2 2026)
-- CompTIA A+
-- CompTIA Network+
-- CompTIA Security+
-- CompTIA CySA+ (Cybersecurity Analyst)
+- **ISC2 Certified in Cybersecurity (CC)** - 1/12/2026 [Verification]([h](https://www.credly.com/badges/7f53631d-bee5-4225-9b17-a48ea939b154/public_url))
+### In Progress (Q1 2026)
+- CompTIA A+ (Core 1 Exam Passed 1/29/2026 Core 2 Exam Scheduled for 2/12/26
+- CompTIA Network+ (Planned 3/2026)
+- CompTIA Security+ (Planned 3/2026)
+- CompTIA CySA+ ((Planned 4/2026))
 
 [⬆ Back to Top](#quickjump)
 
@@ -70,7 +67,7 @@ I'm a Navy veteran and former operations leader at Rivian Automotive executing a
 - **SIEM:** Security Onion (network security monitoring)
 - **Packet Analysis:** Wireshark
 - **Network Scanning:** Nmap
-- **Penetration Testing:** Kali Linux
+- **Penetration Testing:** Kali Linux, Parrot
 - **Virtualization:** VirtualBox (running multiple attack/defense VMs)
 
 🚩**Current Lab Projects:**
