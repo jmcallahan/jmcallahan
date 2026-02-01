@@ -78,7 +78,7 @@ I'm a Navy veteran and former operations leader at Rivian Automotive executing a
 
 ### 🧪 Hands-On Training Platforms
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/jmcall3883.png)
+![TryHackMe Badge](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5060625" style='border:none;'></iframe>)
 
 - Active CTF participation and guided labs
 - Focus areas: networking fundamentals, Linux, enumeration, basic detection
