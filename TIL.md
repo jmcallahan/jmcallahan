@@ -49,7 +49,7 @@
   - I've learned that this particular field is going to require intentional effort from me. Most things I naturally comprehend and almsot osmose information. I'm learning that logic isn't always obvious in coding/IT/tech, that some things are legacy, and that some arbitrary, so I have to adjust to learning things like one does a new language. By forgetting that it has anything to do with another language. Fow now, the connections and lightbulbs will surely come later.
   
   </details>
---- 
+
 <details>
   <summary><h2>12.22.2025</h2></summary>
 
@@ -74,7 +74,7 @@
   - Drilled study guide for SC-900 Certification
   
   </details>
---- 
+  
 <details>
   <summary><H2>12.21.2025</H2></summary>
 
