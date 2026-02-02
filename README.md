@@ -12,7 +12,7 @@
 [![TIL](https://img.shields.io/badge/README-TIL-darkred)](https://github.com/jmcallahan/jmcallahan/blob/main/TIL.md)
 [![TIL](https://img.shields.io/badge/README-Python_Learning_Journey-darkred)](https://github.com/jmcallahan/python-learning-journey/blob/main/README.md)
 [![python-learning-journey](https://img.shields.io/badge/Repo-python_learning_journey-navy)](https://github.com/jmcallahan/python-learning-journey/tree/main)
-[![lab_work](https://img.shields.io/badge/Repo-Lab_Work-darkgreen)]((https://github.com/jmcallahan/labs/tree/main))
+[![labs](https://img.shields.io/badge/Repo-Lab_Work-darkgreen)]((https://github.com/jmcallahan/labs/tree/main))
 [![python-learning-journey/security-learning](https://img.shields.io/badge/Repo-security_learning-darkorange)](https://github.com/jmcallahan/python-learning-journey/tree/main/security-learning)
 
 ---
