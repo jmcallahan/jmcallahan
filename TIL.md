@@ -15,6 +15,19 @@
   </details>
 -->
 <details>
+  <summary><h2> 02.01.2026 </h2></summary>
+## New to me:
+  - Dug into UAC and User Groups
+## Lab Work:
+  - Completed labwork on UAC, can be found at (https://github.com/jmcallahan/labs/tree/main/windows-privilege-policy-controls) 
+## Issues I stumbled on:
+  - The Lab called for work in AppLocker, which wasn't available in Windows 11 Pro, so one task was ommited as a result.
+## Results:
+  - Lab completed and changes rolled back to defaults
+## Additional Notes:
+  - n/a
+  </details>
+<details>
   <summary><h2>12.25.2025</h2></summary>
 
 ### New to me:
