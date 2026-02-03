@@ -29,7 +29,7 @@
 
 ## 📝 About Me
 
-I'm a Navy veteran and former operations leader at Rivian Automotive executing a structured transition into cybersecurity and IT infrastructure. My background in high-stakes operational environments (Navy navigation/force protection, emergency medicine, manufacturing operations) has built the foundation for security-focused technical work: incident response, systems thinking, risk assessment, and process-driven troubleshooting.
+I'm a Navy veteran and former operations leader at Rivian Automotive executing a structured transition into cybersecurity and IT infrastructure. My background in high-stakes operational environments (United States Navy navigation operations, force protection, emergency medicine, and manufacturing operations) has built the foundation for security-focused technical work: incident response, systems thinking, risk assessment, and process-driven troubleshooting.
 
 🔎 **Current Focus:**
 - Building an enterprise-grade home lab for hands-on cybersecurity training
@@ -60,7 +60,7 @@ I'm a Navy veteran and former operations leader at Rivian Automotive executing a
 🖥️ **Hardware:**
 - AMD Ryzen 7 7800X3D (8-core, 16-thread)
 - 64GB DDR5 RAM
-- Dual-boot: Windows 11 / Linux (Ubuntu 24.04)
+- Dual-boot: Windows 11 / Linux (Ubuntu/Kali/Parrot/Arch)
 
 🛠️ **Security & Analysis Tools:**
 - **SIEM:** Security Onion (network security monitoring)
