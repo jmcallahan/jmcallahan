@@ -31,6 +31,8 @@
 
 I'm a Navy veteran and former operations leader at Rivian Automotive executing a structured transition into cybersecurity and IT infrastructure. My background in high-stakes operational environments (United States Navy navigation operations, force protection, emergency medicine, and manufacturing operations) has built the foundation for security-focused technical work: incident response, systems thinking, risk assessment, and process-driven troubleshooting.
 
+This GitHub documents hands-on labs, system builds, and troubleshooting workflows aligned to real-world IT and security operations. It's also where I share what my side-learning curiosities are.
+
 🔎 **Current Focus:**
 - Building an enterprise-grade home lab for hands-on cybersecurity training
 - Pursuing aggressive certification timeline (4 certs by April 2026)
@@ -46,7 +48,7 @@ I'm a Navy veteran and former operations leader at Rivian Automotive executing a
 - **AWS Certified Cloud Practitioner** - 12/31/2025 [Verification](https://cp.certmetrics.com/amazon/en/public/verify/credential/6a774c5161ab406fa7257a6b1df303d8) 
 - **ISC2 Certified in Cybersecurity (CC)** - 1/12/2026 [Verification](https://www.credly.com/badges/7f53631d-bee5-4225-9b17-a48ea939b154/public_url)
 ### In Progress (Q1 2026)
-- CompTIA A+ (Core 1 Exam Passed 1/29/2026 Core 2 Exam Scheduled for 2/12/26
+- CompTIA A+ - Core 1 Passed (1/29/2026), Core 2 Scheduled (2/12/26)
 - CompTIA Network+ (Planned 3/2026)
 - CompTIA Security+ (Planned 3/2026)
 - CompTIA CySA+ ((Planned 4/2026))
@@ -67,7 +69,7 @@ I'm a Navy veteran and former operations leader at Rivian Automotive executing a
 - **Packet Analysis:** Wireshark
 - **Network Scanning:** Nmap
 - **Penetration Testing:** Kali Linux, Parrot
-- **Virtualization:** VirtualBox (running multiple attack/defense VMs)
+- **Virtualization:** VMware Workstation Pro, Windows Hyper-V
 
 🚩**Current Lab Projects:**
 - Building simulated enterprise network for SIEM log analysis
