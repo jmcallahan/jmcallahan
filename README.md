@@ -12,10 +12,10 @@
 [![TIL](https://img.shields.io/badge/README-TIL-darkred)](https://github.com/jmcallahan/jmcallahan/blob/main/TIL.md)
 [![python-learning-journey](https://img.shields.io/badge/Repo-python_learning_journey-navy)](https://github.com/jmcallahan/python-learning-journey/tree/main)
 [![python-learning-journey/security-learning](https://img.shields.io/badge/Repo-security_learning-darkorange)](https://github.com/jmcallahan/python-learning-journey/tree/main/security-learning)
-[![labs](https://img.shields.io/badge/Repo-Lab_Work-darkgreen)](https://github.com/jmcallahan/labs/tree/main) 
+[![labs](https://img.shields.io/badge/Repo-Lab_Work-darkgreen)](https://github.com/jmcallahan/labs) 
 ---
 <a name="quickjump"></a>
-⏩ **Quickjump**
+↩ **Quickjump**
 
 [![Certifications](https://img.shields.io/badge/Certifications-303030)](#certifications)
 [![Professional Background](https://img.shields.io/badge/Professional_Background-303030)](#professional-background)
@@ -34,23 +34,27 @@ This GitHub documents hands-on labs, system builds, and troubleshooting workflow
 
 🔎 **Current Focus:**
 - Building an enterprise-grade home lab for hands-on cybersecurity training
-- Pursuing aggressive certification timeline (4 certs by April 2026)
-- Formal IT education: MyComputerCareer (Jan 2026 start) + B.A.A.S. Cybersecurity (EIU, May 2027 completion)
-- Targeting entry-level roles: SOC Analyst (Tier 1), IT Support, Help Desk
+- Pursuing aggressive certification timeline (CompTIA trifecta + CySA+ by April 2026)
+- Formal IT education: MyComputerCareer (Jan 2026 start) + B.A.A.S. Cybersecurity (EIU, December 2026 completion)
+- Targeting entry-level roles: SOC Analyst (Tier 1), IT Support, Help Desk, Security Operations
 
 [⬆ Back to Top](#quickjump)
 
 ---
 <a name="certifications"></a>
 ## ✅ Certifications
-- **Microsoft Certified:** Security, Compliance, and Identity Fundamentals - 12/22/2025 [Verification](https://learn.microsoft.com/api/credentials/share/en-us/JasonCallahan-1967/F722107FDF047BD3?sharingId=FA29AAB68BEE1638)
-- **AWS Certified Cloud Practitioner** - 12/31/2025 [Verification](https://cp.certmetrics.com/amazon/en/public/verify/credential/6a774c5161ab406fa7257a6b1df303d8) 
-- **ISC2 Certified in Cybersecurity (CC)** - 1/12/2026 [Verification](https://www.credly.com/badges/7f53631d-bee5-4225-9b17-a48ea939b154/public_url)
-### In Progress (Q1 2026)
-- CompTIA A+ - Core 1 Passed (1/29/2026), Core 2 Scheduled (2/12/26)
-- CompTIA Network+ (Planned 3/2026)
-- CompTIA Security+ (Planned 3/2026)
-- CompTIA CySA+ ((Planned 4/2026))
+
+### Completed
+- **CompTIA A+** (220-1101, 220-1102) - 2/2026 [Verification](https://www.credly.com/users/jason-callahan.150008dc)
+- **ISC2 Certified in Cybersecurity (CC)** - 1/12/2026, expires 1/31/2029 [Verification](https://www.credly.com/badges/7f53631d-bee5-4225-9b17-a48ea939b154/public_url)
+- **AWS Certified Cloud Practitioner** - 12/31/2025, expires 12/31/2028 [Verification](https://cp.certmetrics.com/amazon/en/public/verify/credential/6a774c5161ab406fa7257a6b1df303d8)
+- **Microsoft Certified:** Security, Compliance, and Identity Fundamentals (SC-900) - 12/22/2025 [Verification](https://learn.microsoft.com/api/credentials/share/en-us/JasonCallahan-1967/F722107FDF047BD3?sharingId=FA29AAB68BEE1638)
+- **Google Project Management Professional Certificate** - 2/2025
+
+### Scheduled (Q1 2026)
+- CompTIA Network+ - Exam scheduled 3/6/2026
+- CompTIA Security+ - Exam scheduled 3/20/2026  
+- CompTIA CySA+ (Cybersecurity Analyst) - Exam scheduled 4/10/2026
 
 [⬆ Back to Top](#quickjump)
 
@@ -58,23 +62,32 @@ This GitHub documents hands-on labs, system builds, and troubleshooting workflow
 
 ## 🔬 Home Lab Environment
 
-🖥️ **Hardware:**
-- AMD Ryzen 7 7800X3D (8-core, 16-thread)
-- 64GB DDR5 RAM
-- Dual-boot: Windows 11 / Linux (Ubuntu/Kali/Parrot/Arch)
+🖥️ **Infrastructure:**
+- **Primary System:** AMD Ryzen 7 7800X3D (8-core, 16-thread), 64GB DDR5 RAM, RTX 4070 Ti SUPER GPU
+- **Network:** 1Gbps fiber internet with enterprise-grade connectivity
+- **Multi-System Setup:** 2x Windows 11 Pro workstations, 1x Zorin 18 Pro Linux system
+- **Mobile Security:** Secondary phone running GrapheneOS for privacy/security testing
 
 🛠️ **Security & Analysis Tools:**
-- **SIEM:** Security Onion (network security monitoring)
-- **Packet Analysis:** Wireshark
-- **Network Scanning:** Nmap
-- **Penetration Testing:** Kali Linux, Parrot
-- **Virtualization:** VMware Workstation Pro, Windows Hyper-V
+- **SIEM:** Security Onion (network security monitoring, intrusion detection)
+- **Packet Analysis:** Wireshark (deep packet inspection, protocol analysis)
+- **Network Scanning:** Nmap (reconnaissance, vulnerability scanning)
+- **Penetration Testing:** Kali Linux, Parrot Linux (offensive security toolkits)
+- **Virtualization:** VMware Workstation Pro + Windows Hyper-V
+- **Privacy Suite:** Proton Ultimate (VPN, encrypted email, secure storage)
+
+💻 **Active Virtual Machines:**
+- Windows Server (learning enterprise administration)
+- Kali Linux (penetration testing & security assessments)
+- Parrot Linux (forensics & security operations)
+- Ubuntu Server (Linux administration & services)
 
 🚩**Current Lab Projects:**
 - Building simulated enterprise network for SIEM log analysis
 - Practicing incident detection and response workflows
 - Running CTF challenges and vulnerability assessments
 - Documenting security tool configurations and use cases
+- Repository: [all-lab-drafts](https://github.com/jmcallahan/all-lab-drafts)
 
 ### 🧪 Hands-On Training Platforms
 
@@ -135,8 +148,9 @@ This GitHub documents hands-on labs, system builds, and troubleshooting workflow
 ## 🔧 Technical Skills
 
 ### Operating Systems
-- Windows 10/11 (enterprise administration)
-- Linux (Ubuntu, Kali, Parrot, command-line proficiency)
+- Windows 11 Pro, Windows Server (enterprise administration)
+- Linux (Ubuntu, Kali, Parrot, Zorin, command-line proficiency)
+- GrapheneOS (mobile security & privacy)
 - Basic macOS familiarity
 
 ### Networking & Security Tools
@@ -144,12 +158,13 @@ This GitHub documents hands-on labs, system builds, and troubleshooting workflow
 - Nmap (network discovery & security auditing)
 - Security Onion (IDS/IPS, network monitoring)
 - Kali Linux (penetration testing tools)
+- Proton VPN & encrypted communications
 
 ### Enterprise Systems & Tools
 - **Ticketing/Project Management:** Jira, Atlassian, Asana
 - **ERP/Supply Chain:** SAP, Workday, Smartsheet
-- **Cloud Platforms:** Learning AWS, Azure (certifications in progress)
-- **Microsoft 365:** Office Suite, Teams, SharePoint
+- **Cloud Platforms:** AWS (Cloud Practitioner certified), learning Azure
+- **Microsoft 365:** Office Suite, Teams, SharePoint, Active Directory basics
 
 ### Currently Learning
 - SIEM log analysis and threat detection
@@ -157,22 +172,23 @@ This GitHub documents hands-on labs, system builds, and troubleshooting workflow
 - Network security fundamentals
 - Cloud security architecture (AWS, Azure)
 - Incident response methodologies
+- Windows Server administration
 
 [⬆ Back to Top](#quickjump)
 
 ---
 
 <a name="education"></a>
-## 🏫 Education
+## 🎓 Education
 
 **Bachelor of Applied Arts & Sciences - Cybersecurity**  
-*Eastern Illinois University | Expected May 2027*
+*Eastern Illinois University | Expected December 2026*
 
 **IT Infrastructure & Cybersecurity Program**  
-*MyComputerCareer | January 2026 - Present*
+*MyComputerCareer | January 2026 - April 2026*
 
 **Associate of Arts**  
-*Heartland Community College | Completed 2025*
+*Heartland Community College | Completed December 2025*
 
 **Emergency Medical Technician - Intermediate**  
 *Illinois Central College | 2013*
@@ -204,7 +220,7 @@ This GitHub documents hands-on labs, system builds, and troubleshooting workflow
 Building a virtualized enterprise network to practice SIEM log analysis, threat detection, and incident response workflows using Security Onion.
 
 ### 2. Certification Study & Documentation
-Documenting certification study notes, practice lab configurations, and key learnings in GitHub repositories (coming soon).
+Documenting certification study notes, practice lab configurations, and key learnings in GitHub repositories.
 
 ### 3. CTF & Vulnerability Assessment Practice
 Participating in capture-the-flag challenges and vulnerability assessment exercises to build practical offensive/defensive security skills.
@@ -218,7 +234,7 @@ Participating in capture-the-flag challenges and vulnerability assessment exerci
 
 - **Email:** jmcall3883@gmail.com
 - **LinkedIn:** [linkedin.com/in/jasonmcallahan](https://www.linkedin.com/in/jasonmcallahan)
-- **Bluesky:** [jmcallahan.bluesky.social](https://jasonmcallahan.bsky.social)
+- **Bluesky:** [jasonmcallahan.bsky.social](https://jasonmcallahan.bsky.social)
 - **Location:** Normal, Illinois (Open to remote opportunities)
 
 [⬆ Back to Top](#quickjump)
@@ -229,12 +245,12 @@ Participating in capture-the-flag challenges and vulnerability assessment exerci
 ## 🎯 Career Goals
 
 **Immediate (Q1 - Q2 2026):**
-- Complete Microsoft CompTIA A+, Net+, Sec+, CySA+ certifications
+- Complete CompTIA A+, Net+, Sec+, CySA+ certifications
 - Secure entry-level IT role (Help Desk, SOC Analyst, IT Support)
 - Continue hands-on lab work and expand GitHub portfolio with documented projects
 
-**Medium-Term (Q3 2026 - Q2 2027):**
-- Graduate with B.A.A.S. in Cybersecurity from Eastern Illinois University
+**Medium-Term (Q3 2026 - Q4 2026):**
+- Graduate with B.A.A.S. in Cybersecurity from Eastern Illinois University (December 2026)
 - Transition into security-focused role (Junior SOC Analyst, Security Operations)
 
 **Long-Term (2027+):**
@@ -258,17 +274,17 @@ Cybersecurity combines everything I've trained for: risk assessment, incident re
 
 ---
 
-*This README was last updated: January 30, 2026*
+*This README was last updated: February 8, 2026*
 
 <!--
 **jmcallahan/jmcallahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
