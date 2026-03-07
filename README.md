@@ -45,7 +45,7 @@ This GitHub documents hands-on labs, system builds, and troubleshooting workflow
 ## ✅ Certifications
 
 ### Completed
-<!-- - **CompTIA Network+** (N10-009) - 3/2026 [Verification](https://www.credly.com/badges/92e16b08-aeb4-4f05-ad03-78c09f43b863/public_url)# -->
+- **CompTIA Network+** (N10-009) - 3/2026 [Verification](https://www.credly.com/badges/4b546441-3b1b-4871-a033-120f8e6a68b6/public_url) 
 - **CompTIA A+** (220-1101, 220-1102) - 2/2026 [Verification](https://www.credly.com/badges/92e16b08-aeb4-4f05-ad03-78c09f43b863/public_url)
 - **ISC2 Certified in Cybersecurity (CC)** - 1/12/2026, expires 1/31/2029 [Verification](https://www.credly.com/badges/7f53631d-bee5-4225-9b17-a48ea939b154/public_url)
 - **AWS Certified Cloud Practitioner** - 12/31/2025, expires 12/31/2028 [Verification](https://cp.certmetrics.com/amazon/en/public/verify/credential/6a774c5161ab406fa7257a6b1df303d8)
