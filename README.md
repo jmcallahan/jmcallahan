@@ -45,6 +45,8 @@ This GitHub documents hands-on labs, system builds, and troubleshooting workflow
 ## ✅ Certifications
 
 ### Completed
+<!-- - **CompTIA CySA+** (CY0-003) - 3/2026 [Verification](<insert ling here>) -->
+- **CompTIA Security+** (SY0-701) - 3/2026 [Verification](https://www.credly.com/badges/da44ed6d-d927-4e11-8531-9f4113005bae/public_url)
 - **CompTIA Network+** (N10-009) - 3/2026 [Verification](https://www.credly.com/badges/4b546441-3b1b-4871-a033-120f8e6a68b6/public_url) 
 - **CompTIA A+** (220-1101, 220-1102) - 2/2026 [Verification](https://www.credly.com/badges/92e16b08-aeb4-4f05-ad03-78c09f43b863/public_url)
 - **ISC2 Certified in Cybersecurity (CC)** - 1/12/2026, expires 1/31/2029 [Verification](https://www.credly.com/badges/7f53631d-bee5-4225-9b17-a48ea939b154/public_url)
@@ -53,8 +55,8 @@ This GitHub documents hands-on labs, system builds, and troubleshooting workflow
 - **Google Project Management Professional Certificate** - 2/2025
 
 ### Scheduled (Q1 2026)
-- CompTIA Security+ - Exam scheduled 3/20/2026  
 - CompTIA CySA+ (Cybersecurity Analyst) - Exam scheduled 4/10/2026
+- Cisco Certified Associate Python Programmer (PCAP) - Expected 6/2026
 
 [⬆ Back to Top](#quickjump)
 
@@ -149,14 +151,15 @@ This GitHub documents hands-on labs, system builds, and troubleshooting workflow
 
 ### Operating Systems
 - Windows 11 Pro, Windows Server (enterprise administration)
-- Linux (Ubuntu, Kali, Parrot, Zorin, command-line proficiency)
-- GrapheneOS (mobile security & privacy)
+- Linux (Ubuntu, Kali, Parrot, Zorin, Bash, & command-line proficiency)
+- TrueNAS, pfSense
+- Andoid, iOS, & GrapheneOS (mobile security & privacy)
 - Basic macOS familiarity
 
 ### Networking & Security Tools
 - Wireshark (packet capture & analysis)
 - Nmap (network discovery & security auditing)
-- Security Onion (IDS/IPS, network monitoring)
+- Wazuh & Security Onion (IDS/IPS, network monitoring)
 - Kali Linux (penetration testing tools)
 - Proton VPN & encrypted communications
 
@@ -181,20 +184,16 @@ This GitHub documents hands-on labs, system builds, and troubleshooting workflow
 <a name="education"></a>
 ## 🎓 Education
 
-**Bachelor of Applied Arts & Sciences - Cybersecurity**  
-*Eastern Illinois University | Expected December 2026*
+**Eastern Illinois University | Expected May 2027**
+*Bachelor of Applied Arts & Sciences - Cybersecurity*
 
-**IT Infrastructure & Cybersecurity Program**  
-*MyComputerCareer | January 2026 - April 2026*
+**MyComputerCareer | January 2026 - April 2026**
+*CyberWarrior Program - 4.0 GPA*  
+
 
 **Associate of Arts**  
 *Heartland Community College | Completed December 2025*
-
-**Emergency Medical Technician - Intermediate**  
-*Illinois Central College | 2013*
-
-**Emergency Management Certificate**  
-*American Military University | 2010*
+Dean's List | 3.6 GPA
 
 [⬆ Back to Top](#quickjump)
 
@@ -216,7 +215,8 @@ This GitHub documents hands-on labs, system builds, and troubleshooting workflow
 
 ## 🚀 Current Projects
 
-### 1. Home Lab Security Monitoring
+### 1. Home Lab
+##### 1 Gbps Symmetrical Fiber-Connected Small Enterprise Architecture
 Building a virtualized enterprise network to practice SIEM log analysis, threat detection, and incident response workflows using Security Onion.
 
 ### 2. Certification Study & Documentation
@@ -274,7 +274,7 @@ Cybersecurity combines everything I've trained for: risk assessment, incident re
 
 ---
 
-*This README was last updated: February 8, 2026*
+*This README was last updated: March 21, 2026*
 
 <!--
 **jmcallahan/jmcallahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
