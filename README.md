@@ -45,7 +45,7 @@ This GitHub documents hands-on labs, system builds, and troubleshooting workflow
 ## ✅ Certifications
 
 ### Completed
-<!-- - **CompTIA CySA+** (CY0-003) - 3/2026 [Verification](<insert ling here>) -->
+- **CompTIA CySA+** (CY0-003) - 3/2026 [Verification](https://www.credly.com/badges/993ea17e-e8b8-438c-af53-bc9a633cd464/public_url)
 - **CompTIA Security+** (SY0-701) - 3/2026 [Verification](https://www.credly.com/badges/da44ed6d-d927-4e11-8531-9f4113005bae/public_url)
 - **CompTIA Network+** (N10-009) - 3/2026 [Verification](https://www.credly.com/badges/4b546441-3b1b-4871-a033-120f8e6a68b6/public_url) 
 - **CompTIA A+** (220-1101, 220-1102) - 2/2026 [Verification](https://www.credly.com/badges/92e16b08-aeb4-4f05-ad03-78c09f43b863/public_url)
@@ -54,8 +54,7 @@ This GitHub documents hands-on labs, system builds, and troubleshooting workflow
 - **Microsoft Certified:** Security, Compliance, and Identity Fundamentals (SC-900) - 12/22/2025 [Verification](https://learn.microsoft.com/api/credentials/share/en-us/JasonCallahan-1967/F722107FDF047BD3?sharingId=FA29AAB68BEE1638)
 - **Google Project Management Professional Certificate** - 2/2025
 
-### Scheduled (Q1 2026)
-- CompTIA CySA+ (Cybersecurity Analyst) - Exam scheduled 4/10/2026
+### In Progress (Q2 2026)
 - Cisco Certified Associate Python Programmer (PCAP) - Expected 6/2026
 
 [⬆ Back to Top](#quickjump)
@@ -274,7 +273,7 @@ Cybersecurity combines everything I've trained for: risk assessment, incident re
 
 ---
 
-*This README was last updated: March 21, 2026*
+*This README was last updated: April 10, 2026*
 
 <!--
 **jmcallahan/jmcallahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
