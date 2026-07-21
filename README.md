@@ -206,7 +206,6 @@ This GitHub documents hands-on labs, system builds, and troubleshooting workflow
 **MyComputerCareer | January 2026 - April 2026**
 *CyberWarrior Program - 4.0 GPA*  
 
-
 **Associate of Arts**  
 *Heartland Community College | Completed December 2025*
 Dean's List | 3.6 GPA
@@ -261,9 +260,9 @@ Participating in capture-the-flag challenges and vulnerability assessment exerci
 ## 🎯 Career Goals
 
 **Immediate (Q1 - Q2 2026):**
-- Complete CompTIA A+, Net+, Sec+, CySA+ certifications
-- Secure entry-level IT role (Help Desk, SOC Analyst, IT Support)
-- Continue hands-on lab work and expand GitHub portfolio with documented projects
+- ✅ Complete CompTIA A+, Net+, Sec+, CySA+ certifications
+- ✅ Secure entry-level IT role (Help Desk, SOC Analyst, IT Support)
+- ✅ Continue hands-on lab work and expand GitHub portfolio with documented projects
 
 **Medium-Term (Q3 2026 - Q4 2026):**
 - Graduate with B.A.A.S. in Cybersecurity from Eastern Illinois University (December 2026)
@@ -290,7 +289,7 @@ Cybersecurity combines everything I've trained for: risk assessment, incident re
 
 ---
 
-*This README was last updated: April 10, 2026*
+*This README was last updated: July 21, 2026*
 
 <!--
 **jmcallahan/jmcallahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
