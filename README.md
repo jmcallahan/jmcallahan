@@ -3,14 +3,15 @@
 🛡️ **U.S. Navy Veteran | Operations Leader → Cybersecurity Professional**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jasonmcallahan)
-[![Bluesky](https://img.shields.io/badge/Bluesky-Connect-lightblue)](https://jasonmcallahan.bsky.social)
-[![Email](https://img.shields.io/badge/Email-jmcall3883%40gmail.com-darkgreen)](mailto:jmcall3883@gmail.com)
-[![Credly](https://img.shields.io/badge/Credly-Certifications-darkorange)](https://www.credly.com/users/jason-callahan.150008dc)
+[![Email](https://img.shields.io/badge/Email-jmcall3883%40gmail.com-red)](mailto:jmcall3883@gmail.com)
+[![Credly](https://img.shields.io/badge/Credly-Certifications-darkorange)](https://www.credly.com/users/jmcallahan)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Labs_&_CTFs-brightgreen)](https://app.hackthebox.com/public/users/2962132)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-More_Labs_&_CTFs-darkgreen)](https://tryhackme.com/p/jmcall3883)
 
-🪣 **Repos & ReadMes:**
+🪣 **Repos:**
 
-[![TIL](https://img.shields.io/badge/README-TIL-darkred)](https://github.com/jmcallahan/jmcallahan/blob/main/TIL.md)
-[![python-learning-journey](https://img.shields.io/badge/Repo-python_learning_journey-navy)](https://github.com/jmcallahan/python-learning-journey/tree/main)
+[![xiao-esp32-adblocker](https://img.shields.io/badge/Repo-Xiao_ESP32_AdBlocker-darkred)](https://github.com/jmcallahan/xiao-esp32-s3-dns-sinkhole)
+[![pomodoro-timer](https://img.shields.io/badge/Repo-Another_Pomodoro_Timer-navy)](https://github.com/jmcallahan/too_crispy_pomodoro_timer)
 [![python-learning-journey/security-learning](https://img.shields.io/badge/Repo-security_learning-darkorange)](https://github.com/jmcallahan/python-learning-journey/tree/main/security-learning)
 [![labs](https://img.shields.io/badge/Repo-Lab_Work-darkgreen)](https://github.com/jmcallahan/labs) 
 ---
@@ -52,10 +53,26 @@ This GitHub documents hands-on labs, system builds, and troubleshooting workflow
 - **ISC2 Certified in Cybersecurity (CC)** - 1/12/2026, expires 1/31/2029 [Verification](https://www.credly.com/badges/7f53631d-bee5-4225-9b17-a48ea939b154/public_url)
 - **AWS Certified Cloud Practitioner** - 12/31/2025, expires 12/31/2028 [Verification](https://cp.certmetrics.com/amazon/en/public/verify/credential/6a774c5161ab406fa7257a6b1df303d8)
 - **Microsoft Certified:** Security, Compliance, and Identity Fundamentals (SC-900) - 12/22/2025 [Verification](https://learn.microsoft.com/api/credentials/share/en-us/JasonCallahan-1967/F722107FDF047BD3?sharingId=FA29AAB68BEE1638)
-- **Google Project Management Professional Certificate** - 2/2025
+- **Google Project Management Professional Certificate** - 2/2025 [[Verification]](https://www.credly.com/badges/c9e4dded-b21b-4afd-ab94-51ea82e3d8eb/public_url)
 
-### In Progress (Q2 2026)
-- Cisco Certified Associate Python Programmer (PCAP) - Expected 6/2026
+<img width="90" height="90" alt="comptia-cysa-ce-certification" src="https://github.com/user-attachments/assets/f4202c1e-8761-4e3f-a33f-2ca17ab08674" /> <!-- CySA+ Badge -->
+<img width="90" height="90" alt="comptia-security-ce-certification" src="https://github.com/user-attachments/assets/ebb4146d-5079-416e-a905-14de2b69330b" /> <!-- Sec+ Badge -->
+<img width="90" height="90" alt="comptia-network-ce-certification 1" src="https://github.com/user-attachments/assets/13f6d585-ca06-4c14-a717-792d921675a2" /> <!-- Net+ Badge --> 
+<img width="90" height="90" alt="comptia-a-ce-certification 1" src="https://github.com/user-attachments/assets/2dd1f047-11f9-45f9-b8cc-026cb182c22a" /> <!-- A+ Badge --> 
+<img width="90" height="90" alt="certified-in-cybersecurity-cc" src="https://github.com/user-attachments/assets/79ac32b3-f0dd-41f4-b6f9-28489316a347" /> <!-- ISC2 CC Badge -->
+<img width="90" height="90" alt="aws-certified-cloud-practitioner" src="https://github.com/user-attachments/assets/70f00400-e6cd-407d-a98f-d81af1f52ca0" /> <!-- AWS CCP Badge -->
+<img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/1fcf17e4-af7b-4f54-93d9-315ac67a20f5" /> <!-- SC-900 Badge --> 
+<img width="90" height="90" alt="google-project-management-professional-certificate- 1" src="https://github.com/user-attachments/assets/f3f38eb3-18b6-4b41-80ad-833b95393241" /> <!-- Google Project Management Professional Badge -->
+
+
+### In Progress as of Q3 2026
+- **Certified Associate Python Programmer (PCAP)** - WIP
+- **C++ Certified Associate Programmer (CPPAP)** - WIP
+
+<img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/2309eec7-b480-452e-8d5a-a449ef622bd6" />
+<img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/50581f55-91da-4b80-944e-38d5e7f8b8c0" />
+
+
 
 [⬆ Back to Top](#quickjump)
 
