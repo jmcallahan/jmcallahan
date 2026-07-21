@@ -1,6 +1,6 @@
 # Jason M. Callahan
 
-🛡️ **U.S. Navy Veteran | OT/ICS & Cloud Security | Terraform · Linux · Firmware**
+🛡️ **U.S. Navy Veteran | OT/ICS & Cloud Security | SCADA · Terraform · Linux · Embedded Firmware**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jasonmcallahan)
 [![Email](https://img.shields.io/badge/Email-jmcall3883%40gmail.com-red)](mailto:jmcall3883@gmail.com)
@@ -29,15 +29,15 @@
 
 ## 📝 About Me
 
-II'm a U.S. Navy veteran and former operations leader now working on the technical side of a live EV manufacturing floor, providing OT/MES support across Linux and Windows systems; meanwhile targeting a transition to **OT/ICS and cloud security**.
+I'm a U.S. Navy veteran and former operations leader now working on the technical side of a live EV manufacturing floor, providing OT/MES support across Linux and Windows systems; meanwhile targeting a transition to **OT/ICS and cloud security**.
 
 My background in high-stakes operational environments (Navy navigation and force protection, emergency medicine, and manufacturing operations at scale) built the foundation for security work: incident response, systems thinking, risk assessment, and process-driven troubleshooting. What makes my path unusual is that I know the plant floor from _both_ sides now — operations **and** the engineering systems that keep it running.
 
-This GitHub documents hands-on builds, labs, and troubleshooting workflows tied to real IT and security operations. As a bonus you can see the embedded/hardware projects I build end to end. Breaboard, to backend, to breaking support trees off the 3-D printed case.
+This GitHub documents hands-on builds, labs, and troubleshooting workflows tied to real IT and security operations. As a bonus you can see the embedded/hardware projects I build end to end. Breadboard, to backend, to breaking support trees off the 3-D printed case.
 
 🔎 **Current Focus:**
 
-- Providing Tier 1/2 OT support on a live EV manufacturing line for systems such as: Rockwell MES, HMIs, PLC data tags, industrial networks, SCADA deliving world-class service on SLAs
+- Provide Tier 1/2 OT support for SCADA and manufacturing systems across the Paint and Body-in-White departments - including Ignition (Inductive Automation) SCADA, automated storage & retrieval systems (ASRS), and VDI production scheduling/sequencing across the R1 and Amazon EDV lines.
 - Targeting **OT/ICS security** near-term, with **cloud security** as the long-term next step
 - Building and documenting embedded/hardware projects from ESP32, RP2040s, RA4M1, to W5500 Ethernet silicon, and 3D-printed enclosures
 - Continuing to run an enterprise-style home lab for network, pentesting, and firmware attack research to better develop security monitoring, detection, and prevention skills
@@ -50,7 +50,7 @@ This GitHub documents hands-on builds, labs, and troubleshooting workflows tied 
 ## ✅ Certifications
 
 ### Completed
-- **CompTIA CySA+** (CY0-003) - 3/2026 [Verification](https://www.credly.com/badges/993ea17e-e8b8-438c-af53-bc9a633cd464/public_url)
+- **CompTIA CySA+** (CS0-003) - 3/2026 [Verification](https://www.credly.com/badges/993ea17e-e8b8-438c-af53-bc9a633cd464/public_url)
 - **CompTIA Security+** (SY0-701) - 3/2026 [Verification](https://www.credly.com/badges/da44ed6d-d927-4e11-8531-9f4113005bae/public_url)
 - **CompTIA Network+** (N10-009) - 3/2026 [Verification](https://www.credly.com/badges/4b546441-3b1b-4871-a033-120f8e6a68b6/public_url) 
 - **CompTIA A+** (220-1101, 220-1102) - 2/2026 [Verification](https://www.credly.com/badges/92e16b08-aeb4-4f05-ad03-78c09f43b863/public_url)
@@ -71,7 +71,7 @@ This GitHub documents hands-on builds, labs, and troubleshooting workflows tied 
 
 ### In Progress as of Q3 2026
 - **Certified Associate Python Programmer (PCAP)** - WIP
-- **C++ Certified Associate Programmer (CPPAP)** - WIP
+- **C++ Certified Associate Programmer** - WIP
 
 <img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/2309eec7-b480-452e-8d5a-a449ef622bd6" />
 <img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/50581f55-91da-4b80-944e-38d5e7f8b8c0" />
@@ -94,16 +94,16 @@ This GitHub documents hands-on builds, labs, and troubleshooting workflows tied 
 🖥️ **Infrastructure:**
 - **Primary System:** AMD Ryzen 7 7800X3D (8-core, 16-thread), 64GB DDR5 RAM, Radeon RX 9060 XT 
 - **Network:** 1Gbps fiber internet with enterprise-grade connectivity
-- **Operating-System Flexible:** Primary work station is Fedora KDE Plasma, 1x Windows 11 Pro Laptop, 1x Fedora Linux Laptop
+- **Operating-System Flexible:** Primary workstation is Fedora KDE Plasma, 1x Windows 11 Pro Laptop, 1x Fedora Linux Laptop
 - **Homelab Network Stack:**
   - ♻️Repurposed Dell Optiplex > pfSense Security Gateway w/Intel X550-T2 10Gbps Network Adapter
-  - ♻️Repurposed Dell Optiplex > Network SIEM, IDR, IPR w/Intel X540-AT2 10Gbps Network Aapter
+  - ♻️Repurposed Dell Optiplex > Network SIEM, IDS/IPS w/Intel X540-AT2 10Gbps Network Adapter
   - ♻️Repurposed Dell Optiplex Tower > 13TB Personal Cloud and Network Drive via TrueNAS RAIDZ1 Storage Utilizing HBA SAS PCIe Card + 5 3TB SAS Drives
   - ♻️Repurposed Dell Optiplex > Docker, Home Assistant, & additional network services.
 - **SBC Fleet:**
   - <img width="18" alt="RPi_Logo" src="https://github.com/user-attachments/assets/69b2a78a-7953-4689-8f80-1ea8ae3d93b6" /> Raspberry Pi 5 8GB + Hailo 8 26TOPs AI HAT - Intended for long-term AI/ML Project
   - 🍊 Orange Pi 4 Pro 6GB - Because everybody needs a Cyberdeck 
-  - <img width="18" alt="RPi_Logo" src="https://github.com/user-attachments/assets/69b2a78a-7953-4689-8f80-1ea8ae3d93b6" /> Raspberry Pi 3B - Running network wide and tailscale VPN accessible Pi Hole DNS Sinkhole nad AdBlocker
+  - <img width="18" alt="RPi_Logo" src="https://github.com/user-attachments/assets/69b2a78a-7953-4689-8f80-1ea8ae3d93b6" /> Raspberry Pi 3B - Running network wide and Tailscale VPN accessible Pi-Hole DNS Sinkhole and AdBlocker
   - <img width="18" alt="RPi_Logo" src="https://github.com/user-attachments/assets/69b2a78a-7953-4689-8f80-1ea8ae3d93b6" /> Raspberry Pi Zero 2 W - Running Pwnagotchi v2.9.5.4
   - <img width="18" alt="RPi_Logo" src="https://github.com/user-attachments/assets/69b2a78a-7953-4689-8f80-1ea8ae3d93b6" /> Raspberry Pi Zero W - Running Bjorn; Wi-Fi radar project coming soon
 - **Mobile Security:** Secondary phone utilized to run Kali Nethunter <img width="18" alt="image" src="https://github.com/user-attachments/assets/484b7fea-d9dc-495b-88ad-583d35ebb28c" />
@@ -152,13 +152,13 @@ for privacy/security testing and research
 
 **Transferable to IT/Security:** 🚨 incident response & escalation, 📃 SOP development, cross-team coordination under pressure, 📈 data-driven decisions, risk assessment.
 
-### Emergency Medicine | Carle Foundation Hospital (2013-2016)
+### Emergency Medicine | Carle Foundation Hospital (2012-2014)
 - Senior ED Technician at Level 1 Trauma Center (Top 50 U.S. Hospital)
 - Clinical preceptor training new staff on emergency protocols and patient care
 - Managed high-stakes medical interventions where system reliability = patient safety
 - Fluent in healthcare IT workflows (EMR systems, documentation requirements)
 
-**Transferable to IT/Security:** ⚕️ healthcare IT & HIPAA compliance📋, communication under pressure, critical-system troubleshooting, user training.
+**Transferable to IT/Security:** ⚕️ healthcare IT & HIPAA compliance 📋, communication under pressure, critical-system troubleshooting, user training.
 
 ### U.S. Navy | Petty Officer Second Class (2003-2007)
 - Navigation operations & visual communications in high-threat environments
@@ -174,7 +174,7 @@ for privacy/security testing and research
 <a name="technical-skills"></a>
 ## 🔧 Technical Skills
 
-T / ICS
+### OT / ICS
 
 - Rockwell MES, HMIs, PLC data tags, industrial networks
 - IT/OT boundary support, network segmentation concepts
@@ -250,7 +250,7 @@ Full-stack embedded build: an ultra-compact, network-level DNS sinkhole on a See
 
 ### 2. Enterprise-Style Home Lab
 
-1 Gbps symmetrical fiber WAN, segmented multi-VLAN network with 2.5-10Gbps interfaces modeling IT/OT isolation, transition from VM Workstation Pro to Proxmox for VM & VDI deployment, and begin Home Assistant device takeover from "Big Name" devices such as Alex, Ring, or Eco.
+1 Gbps symmetrical fiber WAN, segmented multi-VLAN network with 2.5-10Gbps interfaces modeling IT/OT isolation, transition from VM Workstation Pro to Proxmox for VM & VDI deployment, and begin Home Assistant device takeover from "Big Name" devices such as Alexa, Ring, Blink, et al.
   - This will be accomplished in part by engineering my own replacement devices and AI-powered smart voice assistants, camera modules, and bluetooth audio devices.
 
 ### 3. Security & Python Learning
@@ -290,6 +290,7 @@ Documented security-automation exercises and study notes — password-policy val
 - Grow into remote security / detection engineering
 - Specialize in OT/ICS and critical-infrastructure security
 - Contribute to the security community through open-source projects and documentation
+  
 ---
 
 <a name="why-cybersecurity"></a>
